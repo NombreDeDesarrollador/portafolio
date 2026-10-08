@@ -1,0 +1,5 @@
+[
+  {"id":1,"title":"React sigue creciendo","date":"2024-09-10","content":"El ecosistema React suma nuevas herramientas para el desarrollo web."},
+  {"id":2,"title":"Bootstrap 5.3 y modo oscuro","date":"2024-08-22","content":"Bootstrap incorpora temas de color para mejorar la accesibilidad."},
+  {"id":3,"title":"Pruebas en el front-end","date":"2024-07-15","content":"Cada vez más equipos automatizan pruebas unitarias de componentes."}
+]

@@ -1,0 +1,4 @@
+.hero { background: linear-gradient(90deg, #6d28d9, #2563eb); }
+.intro-bio { max-width: 640px; }
+.card { transition: transform .15s; }
+.card:hover { transform: translateY(-3px); }

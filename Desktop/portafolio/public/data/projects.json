@@ -1,0 +1,5 @@
+[
+  {"id":1,"title":"Tienda Online","description":"E-commerce con carrito de compras y catálogo dinámico.","image":"img/project1.svg","technologies":["React","Bootstrap","JavaScript"],"url":"https://github.com/tu-usuario/tienda-online"},
+  {"id":2,"title":"API de Tareas","description":"API REST para gestionar tareas con autenticación.","image":"img/project2.svg","technologies":["Node.js","Express","MongoDB"],"url":"https://github.com/tu-usuario/api-tareas"},
+  {"id":3,"title":"Dashboard de Datos","description":"Panel con gráficos para visualizar métricas.","image":"img/project3.svg","technologies":["React","JavaScript","CSS"],"url":"https://github.com/tu-usuario/dashboard"}
+]
